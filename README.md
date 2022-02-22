@@ -9,6 +9,7 @@
 <a href="mailto:rta480626@gmail.com"><img align="left" alt="Tony | Gmail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/></a>
 [<img align="left" alt="Tony | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>](https://www.linkedin.com/in/triteb-rojsawangthip/)
 [<img align="left" alt="Tony | Instagram" width="30px" src="https://user-images.githubusercontent.com/85498401/155031196-9e759d41-3199-4603-87e7-048a38972ceb.png"/>](https://www.instagram.com/tony22180/)
+[<img align="left" alt="Tony | Discord" width="30px" src="https://user-images.githubusercontent.com/85498401/155056362-ca621596-aa70-4079-9b86-723a4b8fd585.png"/>](https://discord.com/users/<326811469381632004>)
 
 <!---
 Tony22180/Tony22180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
