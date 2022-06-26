@@ -3,7 +3,7 @@
 
 - 👨‍💻 [Computing Science Business Administration](https://www.smu.ca/academics/computing-science-business-administration.html) major 
 - 👀 I’m interested in Data Science and Computer Programming
-- 🌱 I’m currently learning [Python](https://docs.python.org/3/library/index.html) and [Java](https://dev.java/learn/)
+- 🌱 I’m currently learning [Python](https://docs.python.org/3/library/index.html), [Java](https://dev.java/learn/), and [SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### Connect with me:
 <a href="mailto:rta480626@gmail.com"><img align="left" alt="Tony | Gmail" width="30px" src="https://user-images.githubusercontent.com/85498401/169121662-0519961d-91eb-4c21-acd2-677330734f6b.png"/></a>
