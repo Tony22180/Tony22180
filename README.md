@@ -2,7 +2,7 @@
 ### Undergrad student at [Saint Mary's University](https://www.smu.ca)
 
 - 👨‍💻 [Computing Science Business Administration](https://www.smu.ca/academics/computing-science-business-administration.html) major 
-- 👀 I’m interested in Data Science and Computer Programming
+- 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently learning [Python](https://docs.python.org/3/library/index.html), [Java](https://dev.java/learn/), and [SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### Connect with me:
